@@ -106,4 +106,4 @@ When expanding nodes, the algorithm follows a specific **Clockwise order** inclu
 
 ## Author
 
-Created by Ajmal Razaq (23F-0524) and Rania Shoaib (23F-0650)
+Created by Haseeb ur Rahman (23F-0566) and Areeba Majeed (23F-0651)
